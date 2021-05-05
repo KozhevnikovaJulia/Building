@@ -1,0 +1,17 @@
+.container {
+  max-width: 600px;
+  min-height: 400px;
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.mainContainer {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+}
+.title {
+  background-color: gray;
+}
